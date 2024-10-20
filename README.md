@@ -1,11 +1,5 @@
 # IBM-Data-Analyst-Capstone
 
-## About
-
-This repository was created to store the completed Jupyter notebooks, IBM Cognos Dashboard & PowerPoint Presentation for the IBM Data Analyst Capstone Project. A survey data was analyzed & some insights and trends were identified on emerging technologies and skills in demand which include top programming languages, top databases, popular IDEs, Web frames & Platforms.
-
-## How the Data is processed for Analysis
-
 As part of a capstone project, I took on the role of a Data Analyst with the Global IT and Business Consulting Services Firm  to assist with collection, web scraping, exploration, wrangling, analysis and visualization of several datasets obtained from various sources to help identify trends for the year’s report on emerging technologies and skills. 
 
 ### Week 1. Data Collection

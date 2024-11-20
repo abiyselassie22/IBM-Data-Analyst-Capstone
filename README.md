@@ -4,7 +4,7 @@ As part of a capstone project, I took on the role of a Data Analyst with the Glo
 
 ### Week 1. Data Collection
 
-The data was collected from several datasets (such as Stack Overflow Survey, Github job postings), web scarped and then explored.
+The data was collected from several datasets (such as Stack Overflow Survey, Github job postings), web scraped and then explored.
 
 ### Week 2. Data Wrangling
 

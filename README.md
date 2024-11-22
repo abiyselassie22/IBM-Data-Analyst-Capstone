@@ -1,6 +1,6 @@
 # IBM-Data-Analyst-Capstone
 
-As part of a capstone project, I took on the role of a Data Analyst with the Global IT and Business Consulting Services Firm  to assist with collection, web scraping, exploration, wrangling, analysis and visualization of several datasets obtained from various sources to help identify trends for the year’s report on emerging technologies and skills. 
+As part of a capstone project, I took on the role of a Data Analyst with the Global IT and Business Consulting Services Firm  to assist with collection, web scraping, exploration, wrangling, analysis and visualization of several datasets obtained from various sources to help identify trends for the Current & Future year’s report on emerging technologies and skills. 
 
 ### Week 1. Data Collection
 
